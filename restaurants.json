@@ -1,0 +1,24 @@
+[
+    {
+        "resName":"Joe's Pizza",
+        "resLocation":"Section F",
+        "resType":"Italian",
+        "resRating":"5 stars"
+        "resDesc": "It's Pizza Time!, come on over for a simple Italian classic food with our world famous pizza."
+    },
+    {
+        "resName":"Chao Garden",
+        "resLocation":"Section B",
+        "resType":"Japanese",
+        "resRating":"4 stars"
+        "resDesc": "Our Bao Buns are simply fantastic! as well as our Chao Fruit Punch, with Triangle, Square and Round flavours!"
+    },
+    {
+        "resName":"",
+        "resLocation":"Section C",
+        "resType":"Burger",
+        "resRating":"1 star"
+        "resDesc":"A return to simple, excellent burgers... with you being able to customise it as you please,  our burgers are simply the best."
+    },
+
+]

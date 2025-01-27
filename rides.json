@@ -1,0 +1,27 @@
+[
+    {
+        "rideName":"Crazy Train",
+        "rideLocation":"Section F",
+        "rideWait":"15 Minutes",
+        "rideYear":"Established 1980"
+    },
+    {
+        "rideName":"Demon Fire",
+        "rideLocation":"Section D",
+        "rideWait":"4 Minutes",
+        "rideYear":"Established 2020"
+    },
+    {
+        "rideName":"Skyfall",
+        "rideLocation":"Section A",
+        "rideWait":"7 Minutes",
+        "rideYear":"Established 2012"
+    },
+    {
+        "rideName":"Egg Dragoon",
+        "rideLocation":"Section B",
+        "rideWait":"1 hour and 30 mins",
+        "rideYear":"Establised 2008"
+    },
+
+]
